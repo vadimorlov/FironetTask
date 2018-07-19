@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_RestKit_default_CoreData_Network_ObjectMapping_Support : NSObject
+@end
+@implementation PodsDummy_RestKit_default_CoreData_Network_ObjectMapping_Support
+@end
